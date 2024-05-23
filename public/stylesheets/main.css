@@ -1,0 +1,24 @@
+html {
+    overflow-y: scroll;
+}
+
+.event-headings {
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.log-header {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.display-none {
+    display: none;
+}
+
+.dashboard-chart-row {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
